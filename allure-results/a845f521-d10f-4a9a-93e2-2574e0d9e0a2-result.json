@@ -1,0 +1,55 @@
+{
+  "uuid": "a845f521-d10f-4a9a-93e2-2574e0d9e0a2",
+  "historyId": "7189a6e74f5bad7914b00c7871bf289e",
+  "testCaseId": "[engine:junit-jupiter]/[class:Test]/[method:T1()]",
+  "testCaseName": "T1()",
+  "fullName": "Test.T1",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:Test]/[method:T1()]"
+    },
+    {
+      "name": "host",
+      "value": "User-PC"
+    },
+    {
+      "name": "thread",
+      "value": "1980@User-PC.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "Test"
+    },
+    {
+      "name": "testClass",
+      "value": "Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "T1"
+    },
+    {
+      "name": "suite",
+      "value": "Test"
+    }
+  ],
+  "links": [],
+  "name": "T1()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1661778268062,
+  "stop": 1661778270042
+}
